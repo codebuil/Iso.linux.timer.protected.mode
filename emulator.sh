@@ -1,1 +1,1 @@
-qemu-system-i386 -cdrom myos.iso
+qemu-system-i386 -serial msmouse -cdrom myos.iso
